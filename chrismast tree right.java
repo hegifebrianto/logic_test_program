@@ -17,11 +17,12 @@ public class JavaApplication1 {
     
     /*
     Output:
-        *
-       **
-      ***
+     *
+     **
+     ***
      ****
-    *****
+     *****
+      
     
     */
     public static void main(String[] args) {
