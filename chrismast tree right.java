@@ -25,6 +25,7 @@ public class JavaApplication1 {
       
     
     */
+ /*fix this*/
     public static void main(String[] args) {
        int i,j,k,l,s;
        
