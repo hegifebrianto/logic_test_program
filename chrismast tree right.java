@@ -29,18 +29,15 @@ public class JavaApplication1 {
        int i,j,k,l,s;
        
        
-        for(i=0;i<=5;i++)
+        for(i=0;i<=9;i++)
         {
             
-            for(j=i;j<5;j++)
-            {
-                System.out.print(" ");
-            }
-            
-            for(k=0;k<(2*i)-1;k++)
+            for(j=0;j<i;j++)
             {
                 System.out.print("*");
             }
+            
+
             System.out.println();
         }
         
